@@ -1,5 +1,5 @@
 # Field-Specific-Models
-# Project Name Sarmatian model (e.g., QuantumFlow) 
+# Project Name Tristan - Sarmatian model (e.g., QuantumFlow) 
 *Placeholder goes here*
 
 **A brief, one-liner tagline that captures what the project does or aims to solve.**
